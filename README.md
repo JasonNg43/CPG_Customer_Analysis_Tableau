@@ -6,7 +6,7 @@ This is a two-level Tableau dashboard for marketing and operation audience with 
 Identify the most important KPIs with good clarity and visualize with Tableau. And understand different frequency, level of details and information needed for executives and senior managers towards company's performance.
 
 ### Dataset in this project
-- this is a 200000 transactions dataset with 15 product categories and 29 features which accumlated 120000 customers being involved. Product, Customer demographics, payment methods, marketing history, shipping record are included in the features. I identifed category C as most important product category and proceeded with that.
+- this is a 200000-transactions dataset with 15 product categories and 29 features where 120000 customers were being involved. Product, Customer demographics, payment methods, marketing history, shipping record are included in the features. I identifed category C as most important product category and proceeded with that.
 
 ### Level 1 of the Dashboard
 - Frequency: Quarterly
