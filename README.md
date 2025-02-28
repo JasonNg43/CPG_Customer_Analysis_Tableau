@@ -15,7 +15,7 @@ Identify the most important KPIs with good clarity and visualize with Tableau. A
 - Design: 4 most important KPI, 2 time-series chart and 1 bar chart.
   
 ### Level 2 of the Dashboard
-- Frequency: Monthly/By Request
+- Frequency: Monthly/ By Request
 - Stakeholder: Mid-Level Marketing & Operations Managers
 - Objective: Provide Operation and Marketing detail within Category C performance
 - Design: 1 seasonality chart, 2 time-series charts and 1 retention analysis.
