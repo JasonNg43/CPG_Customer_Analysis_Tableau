@@ -1,6 +1,6 @@
 # CPG_customer_analysis
 
-This is a two-level Tableau dashboard for marketing and operation audience with an anonymous CPG company client over USC Marshall Marketing Analytics Class (MKT 567), under mentorship of professor Dinesh Puranam.
+This is a two-level Tableau dashboard for marketing and operation audience with an anonymous CPG company client over USC Marshall Marketing Analytics Course (MKT 567), under mentorship of professor Dinesh Puranam.
 
 ## Objective of the Dashboard
 Identify the most important KPIs with good clarity and visualize with Tableau. And understand different frequency, level of details and information needed for executives and senior managers towards company's performance.
